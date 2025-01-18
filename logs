@@ -1,4 +1,3 @@
-y310) D:\ERA_V3\decoder>python train.py
 Epoch 1/60, Train Loss: 2.832170, Val Loss: 2.556909
 Validation loss improved to 2.556909. Saving checkpoint...
 Epoch 2/60, Train Loss: 2.271190, Val Loss: 2.065163
@@ -199,3 +198,140 @@ Epoch 59/60, Train Loss: 0.517073, Val Loss: 0.659120
 Validation loss improved to 0.659120. Saving checkpoint...
 Epoch 60/60, Train Loss: 0.509079, Val Loss: 0.646242
 Validation loss improved to 0.646242. Saving checkpoint...
+Loading checkpoint 'shakespeare_model_best.pth'
+Loaded checkpoint (epoch 60)
+Epoch 61/1000, Train Loss: 0.548434, Val Loss: 0.254744
+Validation loss improved to 0.254744. Saving checkpoint...
+Epoch 62/1000, Train Loss: 0.529552, Val Loss: 0.262069
+Epoch 63/1000, Train Loss: 0.514583, Val Loss: 0.267955
+Epoch 64/1000, Train Loss: 0.503508, Val Loss: 0.272481
+Epoch 00005: reducing learning rate of group 0 to 1.5000e-04.
+Epoch 65/1000, Train Loss: 0.491726, Val Loss: 0.272551
+Epoch 66/1000, Train Loss: 0.428487, Val Loss: 0.235904
+Validation loss improved to 0.235904. Saving checkpoint...
+Epoch 67/1000, Train Loss: 0.403809, Val Loss: 0.229113
+Validation loss improved to 0.229113. Saving checkpoint...
+Epoch 68/1000, Train Loss: 0.391207, Val Loss: 0.222845
+Validation loss improved to 0.222845. Saving checkpoint...
+Epoch 69/1000, Train Loss: 0.382077, Val Loss: 0.220651
+Validation loss improved to 0.220651. Saving checkpoint...
+Epoch 70/1000, Train Loss: 0.374803, Val Loss: 0.218315
+Validation loss improved to 0.218315. Saving checkpoint...
+Epoch 71/1000, Train Loss: 0.368249, Val Loss: 0.217058
+Validation loss improved to 0.217058. Saving checkpoint...
+Epoch 72/1000, Train Loss: 0.362332, Val Loss: 0.215875
+Validation loss improved to 0.215875. Saving checkpoint...
+Epoch 73/1000, Train Loss: 0.357209, Val Loss: 0.213407
+Validation loss improved to 0.213407. Saving checkpoint...
+Epoch 74/1000, Train Loss: 0.352380, Val Loss: 0.212680
+Validation loss improved to 0.212680. Saving checkpoint...
+Epoch 75/1000, Train Loss: 0.347209, Val Loss: 0.212008
+Validation loss improved to 0.212008. Saving checkpoint...
+Epoch 76/1000, Train Loss: 0.341977, Val Loss: 0.211313
+Validation loss improved to 0.211313. Saving checkpoint...
+Epoch 77/1000, Train Loss: 0.338712, Val Loss: 0.212686
+Epoch 78/1000, Train Loss: 0.334769, Val Loss: 0.211492
+Epoch 79/1000, Train Loss: 0.330695, Val Loss: 0.211459
+Epoch 80/1000, Train Loss: 0.327285, Val Loss: 0.211028
+Validation loss improved to 0.211028. Saving checkpoint...
+Epoch 81/1000, Train Loss: 0.324263, Val Loss: 0.212946
+Epoch 82/1000, Train Loss: 0.320956, Val Loss: 0.212140
+Epoch 83/1000, Train Loss: 0.317695, Val Loss: 0.211474
+Epoch 00024: reducing learning rate of group 0 to 7.5000e-05.
+Epoch 84/1000, Train Loss: 0.314803, Val Loss: 0.212035
+Epoch 85/1000, Train Loss: 0.289987, Val Loss: 0.201405
+Validation loss improved to 0.201405. Saving checkpoint...
+Epoch 86/1000, Train Loss: 0.280376, Val Loss: 0.200321
+Validation loss improved to 0.200321. Saving checkpoint...
+Epoch 87/1000, Train Loss: 0.275371, Val Loss: 0.198204
+Validation loss improved to 0.198204. Saving checkpoint...
+Epoch 88/1000, Train Loss: 0.271572, Val Loss: 0.197993
+Validation loss improved to 0.197993. Saving checkpoint...
+Epoch 89/1000, Train Loss: 0.267571, Val Loss: 0.197190
+Validation loss improved to 0.197190. Saving checkpoint...
+Epoch 90/1000, Train Loss: 0.264902, Val Loss: 0.197134
+Validation loss improved to 0.197134. Saving checkpoint...
+Epoch 91/1000, Train Loss: 0.263363, Val Loss: 0.197266
+Epoch 92/1000, Train Loss: 0.259966, Val Loss: 0.196569
+Validation loss improved to 0.196569. Saving checkpoint...
+Epoch 93/1000, Train Loss: 0.258169, Val Loss: 0.195856
+Validation loss improved to 0.195856. Saving checkpoint...
+Epoch 94/1000, Train Loss: 0.257252, Val Loss: 0.196760
+Epoch 95/1000, Train Loss: 0.254497, Val Loss: 0.195851
+Validation loss improved to 0.195851. Saving checkpoint...
+Epoch 96/1000, Train Loss: 0.253591, Val Loss: 0.196526
+Epoch 00037: reducing learning rate of group 0 to 3.7500e-05.
+Epoch 97/1000, Train Loss: 0.251164, Val Loss: 0.197563
+Epoch 98/1000, Train Loss: 0.239970, Val Loss: 0.193545
+Validation loss improved to 0.193545. Saving checkpoint...
+Epoch 99/1000, Train Loss: 0.236523, Val Loss: 0.193672
+Epoch 100/1000, Train Loss: 0.234525, Val Loss: 0.192519
+Validation loss improved to 0.192519. Saving checkpoint...
+Epoch 101/1000, Train Loss: 0.232131, Val Loss: 0.193070
+Epoch 102/1000, Train Loss: 0.230579, Val Loss: 0.192969
+Epoch 103/1000, Train Loss: 0.228404, Val Loss: 0.192570
+Epoch 00044: reducing learning rate of group 0 to 1.8750e-05.
+Epoch 104/1000, Train Loss: 0.227930, Val Loss: 0.192848
+Epoch 105/1000, Train Loss: 0.223078, Val Loss: 0.191742
+Validation loss improved to 0.191742. Saving checkpoint...
+Epoch 106/1000, Train Loss: 0.220086, Val Loss: 0.191657
+Validation loss improved to 0.191657. Saving checkpoint...
+Epoch 107/1000, Train Loss: 0.219988, Val Loss: 0.191538
+Validation loss improved to 0.191538. Saving checkpoint...
+Epoch 108/1000, Train Loss: 0.218746, Val Loss: 0.191120
+Validation loss improved to 0.191120. Saving checkpoint...
+Epoch 109/1000, Train Loss: 0.217405, Val Loss: 0.191200
+Epoch 110/1000, Train Loss: 0.216876, Val Loss: 0.191021
+Validation loss improved to 0.191021. Saving checkpoint...
+Epoch 111/1000, Train Loss: 0.215990, Val Loss: 0.190799
+Validation loss improved to 0.190799. Saving checkpoint...
+Epoch 112/1000, Train Loss: 0.215365, Val Loss: 0.190899
+Epoch 113/1000, Train Loss: 0.213945, Val Loss: 0.191060
+Epoch 114/1000, Train Loss: 0.213736, Val Loss: 0.190697
+Validation loss improved to 0.190697. Saving checkpoint...
+Epoch 115/1000, Train Loss: 0.213258, Val Loss: 0.191022
+Epoch 116/1000, Train Loss: 0.213086, Val Loss: 0.191293
+Epoch 117/1000, Train Loss: 0.212252, Val Loss: 0.191489
+Epoch 00058: reducing learning rate of group 0 to 9.3750e-06.
+Epoch 118/1000, Train Loss: 0.211521, Val Loss: 0.190716
+Epoch 119/1000, Train Loss: 0.209074, Val Loss: 0.190717
+Early stopping triggered after 119 epochs
+
+(py310) D:\ERA_V3\decoder>python train.py
+Loading checkpoint 'shakespeare_model_best.pth'
+Loaded checkpoint (epoch 114)
+Epoch 115/1000, Train Loss: 0.239606, Val Loss: 0.079364
+Validation loss improved to 0.079364. Saving checkpoint...
+Epoch 116/1000, Train Loss: 0.237475, Val Loss: 0.079711
+Epoch 117/1000, Train Loss: 0.235606, Val Loss: 0.079986
+Epoch 118/1000, Train Loss: 0.234811, Val Loss: 0.080116
+Epoch 00005: reducing learning rate of group 0 to 9.3750e-06.
+Epoch 119/1000, Train Loss: 0.232602, Val Loss: 0.080290
+Epoch 120/1000, Train Loss: 0.229034, Val Loss: 0.080368
+Epoch 121/1000, Train Loss: 0.228462, Val Loss: 0.080332
+Epoch 122/1000, Train Loss: 0.227092, Val Loss: 0.080419
+Epoch 00009: reducing learning rate of group 0 to 4.6875e-06.
+Epoch 123/1000, Train Loss: 0.225652, Val Loss: 0.080602
+Epoch 124/1000, Train Loss: 0.224738, Val Loss: 0.080526
+Epoch 125/1000, Train Loss: 0.225118, Val Loss: 0.080509
+Epoch 126/1000, Train Loss: 0.223794, Val Loss: 0.080550
+Epoch 00013: reducing learning rate of group 0 to 2.3437e-06.
+Epoch 127/1000, Train Loss: 0.223117, Val Loss: 0.080543
+Epoch 128/1000, Train Loss: 0.223253, Val Loss: 0.080587
+Epoch 129/1000, Train Loss: 0.222726, Val Loss: 0.080569
+Epoch 130/1000, Train Loss: 0.222364, Val Loss: 0.080585
+Epoch 00017: reducing learning rate of group 0 to 1.1719e-06.
+Epoch 131/1000, Train Loss: 0.222430, Val Loss: 0.080548
+Epoch 132/1000, Train Loss: 0.221940, Val Loss: 0.080565
+Epoch 133/1000, Train Loss: 0.221221, Val Loss: 0.080583
+Epoch 134/1000, Train Loss: 0.221543, Val Loss: 0.080570
+Epoch 00021: reducing learning rate of group 0 to 5.8594e-07.
+Epoch 135/1000, Train Loss: 0.221466, Val Loss: 0.080583
+Epoch 136/1000, Train Loss: 0.222069, Val Loss: 0.080567
+Epoch 137/1000, Train Loss: 0.220947, Val Loss: 0.080568
+Epoch 138/1000, Train Loss: 0.220778, Val Loss: 0.080561
+Epoch 00025: reducing learning rate of group 0 to 2.9297e-07.
+Epoch 139/1000, Train Loss: 0.221356, Val Loss: 0.080576
+Epoch 140/1000, Train Loss: 0.220810, Val Loss: 0.080569
+Epoch 141/1000, Train Loss: 0.221160, Val Loss: 0.080571
+Epoch 142/1000, Train Loss: 0.221191, Val Loss: 0.080566
